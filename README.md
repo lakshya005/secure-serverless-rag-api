@@ -21,9 +21,8 @@
 ---
 
 ## 🏗 Architecture
-*(Place your architecture diagram image in the `docs/` folder and name it `architecture_diagram.png`)*
 
-![Architecture Diagram](docs/architecture_diagram.png)
+![Architecture Diagram](docs/architecture_diagram.jpeg)
 
 The architecture follows a fully serverless pattern:
 1.  **API Gateway** acts as the secure entry point, handling request validation and throttling.
