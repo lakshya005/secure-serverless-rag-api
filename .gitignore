@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+
+# Mac
+.DS_Store
+
+# AWS & Deployment
+*.zip
+aws-credentials.csv
