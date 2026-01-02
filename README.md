@@ -71,15 +71,9 @@ secure-serverless-rag-api/
 │
 ├── src/
 │   ├── lambda_function.py     # Main entry point for API requests
-│   ├── utils.py               # Helper functions for formatting and validation
-│   └── vector_search.py       # Logic for querying the vector database
-│
+|
 ├── docs/
 │   └── architecture_diagram.png  # System architecture reference
 │
-├── tests/
-│   └── test_api.py            # Unit tests for the Lambda handler
-│
 ├── .gitignore                 # Security exclusions (secrets, env vars)
-├── requirements.txt           # Python dependencies
 └── README.md                  # Project documentation
